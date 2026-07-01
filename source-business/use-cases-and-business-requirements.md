@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bare
 title: Use Cases and Business Requirements
 ---
 

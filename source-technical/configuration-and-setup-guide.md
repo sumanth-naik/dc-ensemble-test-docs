@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bare
 title: Configuration and Setup Guide
 ---
 
