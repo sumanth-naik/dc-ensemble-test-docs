@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regulatory Compliance Framework
+---
+
 # Salesforce Data Cloud: Regulatory Compliance Framework
 
 ## 1. Data Residency and Sovereignty

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Architecture and Implementation Patterns
+---
+
 # Salesforce Data Cloud: Architecture and Implementation Patterns
 
 ## 1. System Architecture Overview

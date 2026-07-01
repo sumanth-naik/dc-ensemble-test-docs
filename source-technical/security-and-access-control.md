@@ -1,3 +1,8 @@
+---
+layout: default
+title: Security Implementation and Access Control
+---
+
 # Salesforce Data Cloud: Security Implementation and Access Control
 
 ## 1. Authentication and Authorization Architecture

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Feature Catalog and Product Roadmap
+---
+
 # Salesforce Data Cloud: Feature Catalog and Product Roadmap
 
 ## 1. Current Feature Catalog (Summer '26 Release)

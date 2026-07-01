@@ -1,3 +1,8 @@
+---
+layout: default
+title: Use Cases and Business Requirements
+---
+
 # Salesforce Data Cloud: Use Cases and Business Requirements
 
 ## 1. Industry Use Cases

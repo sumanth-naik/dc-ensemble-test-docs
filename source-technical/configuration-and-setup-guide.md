@@ -1,3 +1,8 @@
+---
+layout: default
+title: Configuration and Setup Guide
+---
+
 # Salesforce Data Cloud: Configuration and Setup Guide
 
 ## 1. Initial Provisioning
